@@ -48,6 +48,9 @@ The Simple Reminder Application is a lightweight and easy-to-use tool designed t
 2. **Navigate to the project directory:**
    ```sh
    cd Simple-reminder-application
-3. **Run the application:**
- ```sh
+3. **Install the required dependencies:**
+   ```sh
+   pip install -r requirements.txt 
+4. **Run the application:**
+   ```sh
    python main.py
