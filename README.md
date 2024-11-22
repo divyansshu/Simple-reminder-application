@@ -37,7 +37,7 @@ The Simple Reminder Application is a lightweight and easy-to-use tool designed t
   
 ![Screenshot 2024-11-23 003520](https://github.com/user-attachments/assets/86f7c48a-4eeb-424d-9d25-d8b3c5b931fc)
 
-<br>
+
 ## Installation
 - To install and run the Simple Reminder Application, follow these steps:
 
