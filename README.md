@@ -1,18 +1,18 @@
 # Simple-reminder-application
-## Overview
+## 🚀 Overview
 The Simple Reminder Application is a lightweight and easy-to-use tool designed to help you manage your tasks and reminders efficiently. With a user-friendly interface, you can quickly add and delete reminders to stay organized and on top of your schedule.
 
-## Features
+## 🌟 Features
 - Add new reminders with a title
 - Delete reminders
 - View a list of all reminders
 - User-friendly interface
 
-## Prerequisites
+## 🛠️ Prerequisites
 - Python 3.7 or later.
-- tkinter (pre-installed with Python).
+- **tkinter** (pre-installed with Python).
 
-## Screenshots
+## 🎨 Screenshots
 - **Simple layout**
   
 ![Screenshot 2024-11-23 003323](https://github.com/user-attachments/assets/45d1c770-75af-48ab-93c2-fb361c86fa18)
@@ -38,19 +38,22 @@ The Simple Reminder Application is a lightweight and easy-to-use tool designed t
 ![Screenshot 2024-11-23 003520](https://github.com/user-attachments/assets/86f7c48a-4eeb-424d-9d25-d8b3c5b931fc)
 
 
-## Installation
+## 🛠️ Installation
 - To install and run the Simple Reminder Application, follow these steps:
 
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/divyansshu/Simple-reminder-application.git
-
+    ```
 2. **Navigate to the project directory:**
    ```sh
    cd Simple-reminder-application
+    ```
 3. **Install the required dependencies:**
    ```sh
-   pip install -r requirements.txt 
+   pip install -r requirements.txt
+    ```
 4. **Run the application:**
    ```sh
    python main.py
+    ```
